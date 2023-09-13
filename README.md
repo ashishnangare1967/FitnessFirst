@@ -16,9 +16,9 @@ This gym web application enables users to explore diverse exercise categories. U
 ## Team members
 
 1) Ruchi Agrawal
-2) Ashish nangare
-3) Ankesh kumar
-4) vishal kumar
+2) Ashish Nangare
+3) Ankesh Kumar
+4) vishal Kumar
 5) Prayas Tiwari
 
 ## Tech Stack
